@@ -1,0 +1,222 @@
+c:\users\rafael\documents\visual studio 2012\Projects\ControlesDeToolkit\ControlesDeToolkit\bin\Debug\ControlesDeToolkit.exe
+c:\users\rafael\documents\visual studio 2012\Projects\ControlesDeToolkit\ControlesDeToolkit\bin\Debug\ControlesDeToolkit.pdb
+c:\users\rafael\documents\visual studio 2012\Projects\ControlesDeToolkit\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+c:\users\rafael\documents\visual studio 2012\Projects\ControlesDeToolkit\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+c:\users\rafael\documents\visual studio 2012\Projects\ControlesDeToolkit\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+c:\users\rafael\documents\visual studio 2012\Projects\ControlesDeToolkit\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.csprojResolveAssemblyReference.cache
+c:\users\rafael\documents\visual studio 2012\Projects\ControlesDeToolkit\ControlesDeToolkit\obj\Debug\MainWindow.baml
+c:\users\rafael\documents\visual studio 2012\Projects\ControlesDeToolkit\ControlesDeToolkit\obj\Debug\MainWindow.g.cs
+c:\users\rafael\documents\visual studio 2012\Projects\ControlesDeToolkit\ControlesDeToolkit\obj\Debug\App.g.cs
+c:\users\rafael\documents\visual studio 2012\Projects\ControlesDeToolkit\ControlesDeToolkit\obj\Debug\ControlesDeToolkit_MarkupCompile.cache
+c:\users\rafael\documents\visual studio 2012\Projects\ControlesDeToolkit\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.g.resources
+c:\users\rafael\documents\visual studio 2012\Projects\ControlesDeToolkit\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.Properties.Resources.resources
+c:\users\rafael\documents\visual studio 2012\Projects\ControlesDeToolkit\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.csproj.GenerateResource.Cache
+c:\users\rafael\documents\visual studio 2012\Projects\ControlesDeToolkit\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.exe
+c:\users\rafael\documents\visual studio 2012\Projects\ControlesDeToolkit\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.pdb
+c:\users\rafael\documents\visual studio 2012\Projects\ControlesDeToolkit\ControlesDeToolkit\bin\Debug\KinectInteraction180_32.dll
+E:\Projeto Kinect\ControlesDeToolkit\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.exe
+E:\Projeto Kinect\ControlesDeToolkit\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.pdb
+E:\Projeto Kinect\ControlesDeToolkit\ControlesDeToolkit\bin\Debug\ControlesDeToolkit.exe
+E:\Projeto Kinect\ControlesDeToolkit\ControlesDeToolkit\bin\Debug\ControlesDeToolkit.pdb
+E:\Projeto Kinect\ControlesDeToolkit\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.csprojResolveAssemblyReference.cache
+E:\Projeto Kinect\ControlesDeToolkit\ControlesDeToolkit\obj\Debug\MainWindow.baml
+E:\Projeto Kinect\ControlesDeToolkit\ControlesDeToolkit\obj\Debug\MainWindow.g.cs
+E:\Projeto Kinect\ControlesDeToolkit\ControlesDeToolkit\obj\Debug\App.g.cs
+E:\Projeto Kinect\ControlesDeToolkit\ControlesDeToolkit\obj\Debug\ControlesDeToolkit_Content.g.cs
+E:\Projeto Kinect\ControlesDeToolkit\ControlesDeToolkit\obj\Debug\ControlesDeToolkit_MarkupCompile.cache
+E:\Projeto Kinect\ControlesDeToolkit\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.g.resources
+E:\Projeto Kinect\ControlesDeToolkit\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.Properties.Resources.resources
+E:\Projeto Kinect\ControlesDeToolkit\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.csproj.GenerateResource.Cache
+E:\Projeto Kinect\ControlesDeToolkit\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+E:\Projeto Kinect\ControlesDeToolkit\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.BackgroundRemoval.dll
+E:\Projeto Kinect\ControlesDeToolkit\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+E:\Projeto Kinect\ControlesDeToolkit\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+E:\Projeto Kinect\ControlesDeToolkit\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+E:\Projeto Kinect\QuebraCabeca\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.exe
+E:\Projeto Kinect\QuebraCabeca\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.pdb
+E:\Projeto Kinect\QuebraCabeca\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.csprojResolveAssemblyReference.cache
+E:\Projeto Kinect\QuebraCabeca\ControlesDeToolkit\obj\Debug\MainWindow.baml
+E:\Projeto Kinect\QuebraCabeca\ControlesDeToolkit\obj\Debug\MainWindow.g.cs
+E:\Projeto Kinect\QuebraCabeca\ControlesDeToolkit\obj\Debug\App.g.cs
+E:\Projeto Kinect\QuebraCabeca\ControlesDeToolkit\obj\Debug\ControlesDeToolkit_Content.g.cs
+E:\Projeto Kinect\QuebraCabeca\ControlesDeToolkit\obj\Debug\ControlesDeToolkit_MarkupCompile.cache
+E:\Projeto Kinect\QuebraCabeca\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.g.resources
+E:\Projeto Kinect\QuebraCabeca\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.Properties.Resources.resources
+E:\Projeto Kinect\QuebraCabeca\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.csproj.GenerateResource.Cache
+E:\Projeto Kinect\QuebraCabeca\ControlesDeToolkit\bin\Debug\ControlesDeToolkit.exe
+E:\Projeto Kinect\QuebraCabeca\ControlesDeToolkit\bin\Debug\ControlesDeToolkit.pdb
+E:\Projeto Kinect\QuebraCabeca\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.BackgroundRemoval.dll
+E:\Projeto Kinect\QuebraCabeca\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+E:\Projeto Kinect\QuebraCabeca\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+E:\Projeto Kinect\QuebraCabeca\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+E:\Projeto Kinect\QuebraCabeca\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+E:\Projeto Kinect\QuebraCabecav1\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.exe
+E:\Projeto Kinect\QuebraCabecav1\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.pdb
+E:\Projeto Kinect\QuebraCabecav1\ControlesDeToolkit\bin\Debug\ControlesDeToolkit.exe
+E:\Projeto Kinect\QuebraCabecav1\ControlesDeToolkit\bin\Debug\ControlesDeToolkit.pdb
+E:\Projeto Kinect\QuebraCabecav1\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.BackgroundRemoval.dll
+E:\Projeto Kinect\QuebraCabecav1\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+E:\Projeto Kinect\QuebraCabecav1\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+E:\Projeto Kinect\QuebraCabecav1\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+E:\Projeto Kinect\QuebraCabecav1\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+E:\Projeto Kinect\QuebraCabecav1\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.csprojResolveAssemblyReference.cache
+E:\Projeto Kinect\QuebraCabecav1\ControlesDeToolkit\obj\Debug\MainWindow.baml
+E:\Projeto Kinect\QuebraCabecav1\ControlesDeToolkit\obj\Debug\MainWindow.g.cs
+E:\Projeto Kinect\QuebraCabecav1\ControlesDeToolkit\obj\Debug\App.g.cs
+E:\Projeto Kinect\QuebraCabecav1\ControlesDeToolkit\obj\Debug\ControlesDeToolkit_Content.g.cs
+E:\Projeto Kinect\QuebraCabecav1\ControlesDeToolkit\obj\Debug\ControlesDeToolkit_MarkupCompile.cache
+E:\Projeto Kinect\QuebraCabecav1\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.g.resources
+E:\Projeto Kinect\QuebraCabecav1\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.Properties.Resources.resources
+E:\Projeto Kinect\QuebraCabecav1\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.csproj.GenerateResource.Cache
+E:\Projeto Kinect\QuebraCabecav1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.exe
+E:\Projeto Kinect\QuebraCabecav1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.pdb
+E:\Projeto Kinect\QuebraCabecav1.2\ControlesDeToolkit\bin\Debug\ControlesDeToolkit.exe
+E:\Projeto Kinect\QuebraCabecav1.2\ControlesDeToolkit\bin\Debug\ControlesDeToolkit.pdb
+E:\Projeto Kinect\QuebraCabecav1.2\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.BackgroundRemoval.dll
+E:\Projeto Kinect\QuebraCabecav1.2\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+E:\Projeto Kinect\QuebraCabecav1.2\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+E:\Projeto Kinect\QuebraCabecav1.2\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+E:\Projeto Kinect\QuebraCabecav1.2\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+E:\Projeto Kinect\QuebraCabecav1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.csprojResolveAssemblyReference.cache
+E:\Projeto Kinect\QuebraCabecav1.2\ControlesDeToolkit\obj\Debug\MainWindow.baml
+E:\Projeto Kinect\QuebraCabecav1.2\ControlesDeToolkit\obj\Debug\MainWindow.g.cs
+E:\Projeto Kinect\QuebraCabecav1.2\ControlesDeToolkit\obj\Debug\App.g.cs
+E:\Projeto Kinect\QuebraCabecav1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit_Content.g.cs
+E:\Projeto Kinect\QuebraCabecav1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit_MarkupCompile.cache
+E:\Projeto Kinect\QuebraCabecav1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.g.resources
+E:\Projeto Kinect\QuebraCabecav1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.Properties.Resources.resources
+E:\Projeto Kinect\QuebraCabecav1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.csproj.GenerateResource.Cache
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.exe
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.pdb
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1 - Copia\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.exe
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1 - Copia\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.pdb
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1 - Copia\ControlesDeToolkit\bin\Debug\ControlesDeToolkit.exe
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1 - Copia\ControlesDeToolkit\bin\Debug\ControlesDeToolkit.pdb
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1 - Copia\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.BackgroundRemoval.dll
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1 - Copia\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1 - Copia\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1 - Copia\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1 - Copia\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1 - Copia\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.csprojResolveAssemblyReference.cache
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1 - Copia\ControlesDeToolkit\obj\Debug\MainWindow.baml
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1 - Copia\ControlesDeToolkit\obj\Debug\MainWindow.g.cs
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1 - Copia\ControlesDeToolkit\obj\Debug\App.g.cs
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1 - Copia\ControlesDeToolkit\obj\Debug\ControlesDeToolkit_Content.g.cs
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1 - Copia\ControlesDeToolkit\obj\Debug\ControlesDeToolkit_MarkupCompile.cache
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1 - Copia\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.g.resources
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1 - Copia\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.Properties.Resources.resources
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1 - Copia\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.csproj.GenerateResource.Cache
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.1\ControlesDeToolkit\bin\Debug\ControlesDeToolkit.exe
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.1\ControlesDeToolkit\bin\Debug\ControlesDeToolkit.pdb
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.1\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.BackgroundRemoval.dll
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.1\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.1\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.1\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.1\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.1\ControlesDeToolkit\obj\Debug\MainWindow.baml
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.1\ControlesDeToolkit\obj\Debug\MainWindow.g.cs
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.1\ControlesDeToolkit\obj\Debug\App.g.cs
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.1\ControlesDeToolkit\obj\Debug\ControlesDeToolkit_Content.g.cs
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.1\ControlesDeToolkit\obj\Debug\ControlesDeToolkit_MarkupCompile.cache
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.1\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.g.resources
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.1\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.Properties.Resources.resources
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.1\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.csproj.GenerateResource.Cache
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.1\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.exe
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.1\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.pdb
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.1\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.csprojResolveAssemblyReference.cache
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.1\ControlesDeToolkit\obj\Debug\Exemplo.baml
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.1\ControlesDeToolkit\obj\Debug\Exemplo.g.cs
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\ControlesDeToolkit.exe
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\ControlesDeToolkit.pdb
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.BackgroundRemoval.dll
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.csprojResolveAssemblyReference.cache
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\MainWindow.baml
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\MainWindow.g.cs
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\App.g.cs
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit_Content.g.cs
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit_MarkupCompile.cache
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.g.resources
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.Properties.Resources.resources
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.csproj.GenerateResource.Cache
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.exe
+E:\Projeto Kinect\Projeto Quebra Cabeça\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.pdb
+C:\Users\Jefferson\Desktop\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.exe
+C:\Users\Jefferson\Desktop\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.pdb
+C:\Users\Jefferson\Desktop\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\ControlesDeToolkit.exe
+C:\Users\Jefferson\Desktop\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\ControlesDeToolkit.pdb
+C:\Users\Jefferson\Desktop\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.BackgroundRemoval.dll
+C:\Users\Jefferson\Desktop\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Jefferson\Desktop\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Jefferson\Desktop\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\Jefferson\Desktop\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Jefferson\Desktop\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.csprojResolveAssemblyReference.cache
+C:\Users\Jefferson\Desktop\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\MainWindow.baml
+C:\Users\Jefferson\Desktop\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\MainWindow.g.cs
+C:\Users\Jefferson\Desktop\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\App.g.cs
+C:\Users\Jefferson\Desktop\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit_Content.g.cs
+C:\Users\Jefferson\Desktop\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit_MarkupCompile.cache
+C:\Users\Jefferson\Desktop\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.g.resources
+C:\Users\Jefferson\Desktop\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.Properties.Resources.resources
+C:\Users\Jefferson\Desktop\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.csproj.GenerateResource.Cache
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.exe
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.pdb
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\ControlesDeToolkit.exe
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\ControlesDeToolkit.pdb
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.BackgroundRemoval.dll
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.csprojResolveAssemblyReference.cache
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\MainWindow.baml
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\MainWindow.g.cs
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\App.g.cs
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit_Content.g.cs
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit_MarkupCompile.cache
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.g.resources
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.Properties.Resources.resources
+C:\Users\Jefferson\Desktop\Material Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.csproj.GenerateResource.Cache
+D:\JeffersonSkyDrive\Arquivos Offline\Mat Didatico\Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.exe
+D:\JeffersonSkyDrive\Arquivos Offline\Mat Didatico\Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.pdb
+D:\JeffersonSkyDrive\Arquivos Offline\Mat Didatico\Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\ControlesDeToolkit.exe
+D:\JeffersonSkyDrive\Arquivos Offline\Mat Didatico\Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\ControlesDeToolkit.pdb
+D:\JeffersonSkyDrive\Arquivos Offline\Mat Didatico\Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.BackgroundRemoval.dll
+D:\JeffersonSkyDrive\Arquivos Offline\Mat Didatico\Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+D:\JeffersonSkyDrive\Arquivos Offline\Mat Didatico\Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+D:\JeffersonSkyDrive\Arquivos Offline\Mat Didatico\Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+D:\JeffersonSkyDrive\Arquivos Offline\Mat Didatico\Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+D:\JeffersonSkyDrive\Arquivos Offline\Mat Didatico\Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.csprojResolveAssemblyReference.cache
+D:\JeffersonSkyDrive\Arquivos Offline\Mat Didatico\Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\MainWindow.baml
+D:\JeffersonSkyDrive\Arquivos Offline\Mat Didatico\Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\MainWindow.g.cs
+D:\JeffersonSkyDrive\Arquivos Offline\Mat Didatico\Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\App.g.cs
+D:\JeffersonSkyDrive\Arquivos Offline\Mat Didatico\Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit_Content.g.cs
+D:\JeffersonSkyDrive\Arquivos Offline\Mat Didatico\Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit_MarkupCompile.cache
+D:\JeffersonSkyDrive\Arquivos Offline\Mat Didatico\Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.g.resources
+D:\JeffersonSkyDrive\Arquivos Offline\Mat Didatico\Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.Properties.Resources.resources
+D:\JeffersonSkyDrive\Arquivos Offline\Mat Didatico\Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.csproj.GenerateResource.Cache
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.exe
+D:\JeffersonSkyDrive\OneDrive\Curso Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.pdb
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.exe
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.pdb
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\ControlesDeToolkit.exe
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\ControlesDeToolkit.pdb
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.dll
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.BackgroundRemoval.dll
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\bin\Debug\Microsoft.Kinect.xml
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.csprojResolveAssemblyReference.cache
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\MainWindow.baml
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\MainWindow.g.cs
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\App.g.cs
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit_Content.g.cs
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit_MarkupCompile.cache
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.g.resources
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.Properties.Resources.resources
+E:\jefferson\OneDrive\FATEC\FATEC Projeto HAE\Curso Kinect\Projetos\QuebraCabecaV1.2\ControlesDeToolkit\obj\Debug\ControlesDeToolkit.csproj.GenerateResource.Cache

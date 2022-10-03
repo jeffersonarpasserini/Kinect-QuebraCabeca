@@ -1,0 +1,68 @@
+﻿<Window x:Class="ControlesDeToolkit.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:k="http://schemas.microsoft.com/kinect/2013" 
+                
+        Title="Quebra Cabeça" Width="1024" Height="768"  Loaded="Window_Loaded" WindowState="Maximized">
+   
+    <Grid>
+        <k:KinectRegion Name="ZonaCursor">
+            <Grid Background="#107c0f" Margin="0,0,10,0">
+                <k:KinectSensorChooserUI Name="sensorChooserUI" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="385,0,367,0"></k:KinectSensorChooserUI>
+                <k:KinectUserViewer  DefaultUserColor="Red" PrimaryUserColor="White" VerticalAlignment="Top" HorizontalAlignment="Left" Height="117" Width="159"/>
+                <k:KinectCircleButton Content="" Label="Sair" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,10,10,0" Width="120" Height="140" ContentForeground="White" Foreground="White" FontWeight="Bold" FontSize="48" Click="KinectCircleButton_Click_1" />
+                <k:KinectCircleButton Name="btnrestart" Label="Restart" Width="120" Height="140" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,10,140,0" ContentForeground="White" Foreground="White" Click="btnrestart_Click"/>
+                <k:KinectCircleButton Name="btnexemplo" Label="Iniciar" Width="120" Height="140" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,10,270,0" ContentForeground="White" Foreground="White" Click="KinectCircleButton_Click"/>
+                <Image Name="exemplo" Source="/img/nivel1/nivel1.jpg" Width="200" Height="150" VerticalAlignment="top" HorizontalAlignment="Right" Margin="0,10,394,0"></Image>
+
+
+                <Grid Background="White" Height="389" Width="389" HorizontalAlignment="Left" Margin="10,100,0,0">
+                    <k:KinectTileButton Name="btnesp1" Width="200" Height="200" HorizontalAlignment="Left" VerticalAlignment="Top" Background="#FFCECECE" BorderBrush="{x:Null}" Click="btnesp1_Click" >
+                        <Image Name="imgesp1" Source="/img/nivel1/img0.jpg"></Image>
+                    </k:KinectTileButton>
+                    <k:KinectTileButton Name="btnesp2" Width="200" Height="200" HorizontalAlignment="Right" VerticalAlignment="Top" Background="#FFCECECE" BorderBrush="{x:Null}" Click="btnesp2_Click" >
+                        <Image Name="imgesp2" Source="/img/nivel1/img0.jpg"></Image>
+                    </k:KinectTileButton>
+                    <k:KinectTileButton Name="btnesp3" Width="200" Height="200" HorizontalAlignment="Left" VerticalAlignment="Bottom" Background="#FFCECECE" BorderBrush="{x:Null}" Click="btnesp3_Click" >
+                        <Image Name="imgesp3" Source="/img/nivel1/img0.jpg"></Image>
+                    </k:KinectTileButton>
+                    <k:KinectTileButton Name="btnesp4" Width="200" Height="200" HorizontalAlignment="Right" VerticalAlignment="Bottom" Background="#FFCECECE" BorderBrush="{x:Null}" Click="btnesp4_Click" >
+                        <Image Name="imgesp4" Source="/img/nivel1/img0.jpg"></Image>
+                    </k:KinectTileButton>
+                </Grid>
+
+                <Grid Width="400" Height="100" HorizontalAlignment="Left" VerticalAlignment="Center"  Margin="10,610,0,0">
+                    <Label Content="JOGADAS:" FontSize="25" Foreground="White" VerticalAlignment="Top" HorizontalAlignment="Left" />
+                    <Label Name="Contador" Content="0" FontSize="25" Foreground="White" VerticalAlignment="Top" Margin="130,0,0,0" />
+                    
+
+                </Grid>
+
+                <Grid Width="800" Height="600"   HorizontalAlignment="Right" Margin="0,140,10,0">
+                    <k:KinectTileButton  Name="btn1" Width="200" Height="200" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,30,0,0" Click="btn1_Click" IsEnabled="False" >
+                        <Image  Name="imgbtn1" Source="/img/nivel1/img1_e.jpg"></Image>
+                    </k:KinectTileButton>
+                    <k:KinectTileButton Name="btn2" Width="200" Height="200" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="-50,30,0,0" Click="btn2_Click" IsEnabled="False">
+                        <Image Name="imgbtn2" Source="/img/nivel1/img3.jpg"></Image>
+                    </k:KinectTileButton>
+                    <k:KinectTileButton Name="btn3" Width="200" Height="200" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,30,50,0" Click="btn3_Click" IsEnabled="False">
+                        <Image Name="imgbtn3" Source="/img/nivel1/img4.jpg"></Image>
+                    </k:KinectTileButton>
+
+                    <k:KinectTileButton Name="btn4" Width="200" Height="200" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,250,0,0" Click="btn4_Click" IsEnabled="False">
+                        <Image Name="imgbtn4" Source="/img/nivel1/img2.jpg"></Image>
+                    </k:KinectTileButton>
+                    <k:KinectTileButton Name="btn5" Width="200" Height="200" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="-50,250,0,0" Click="btn5_Click" IsEnabled="False">
+                        <Image Name="imgbtn5" Source="/img/nivel1/img1.jpg"></Image>
+                    </k:KinectTileButton>
+                    <k:KinectTileButton Name="btn6" Width="200" Height="200" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,250,50,0" Click="btn6_Click" IsEnabled="False">
+                        <Image Name="imgbtn6" Source="/img/nivel1/img2_e.jpg"></Image>
+                    </k:KinectTileButton>
+
+
+                </Grid>
+
+            </Grid>
+        </k:KinectRegion>
+    </Grid>
+</Window>
